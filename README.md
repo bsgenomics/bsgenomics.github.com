@@ -1,4 +1,4 @@
-zyxdata.github.com
+bsgenomics.github.com
 ==================
 
-zyxdata website
+bsgenomics homepage
