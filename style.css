@@ -345,13 +345,13 @@ body {
 }
 #body .contact {
 	margin: 0 auto;
-	padding: 25px 10px 50px 10px;
+	padding: 0px 10px 50px 10px;
 	width: 940px;
 }
 #body .services,
 #body .blog {
 	margin: 0 auto;
-	padding: 25px 10px 50px 10px;	
+	padding: 0px 10px 50px 10px;	
 	width: 940px;
 }
 #body h1 {
@@ -408,7 +408,7 @@ body {
 /* this part control about page */
 #body .about{
 	margin: 0 auto;
-	padding: 25px 10px 50px 10px;
+	padding: 0px 10px 50px 10px;
 	width: 940px;
 }
 #body .about #box {
@@ -613,7 +613,7 @@ body {
 /* control about the product page */
 #body .products {
 	margin: 0 auto;
-	padding: 25px 0 25px 0;
+	padding: 0px 0 25px 0;
 	width: 960px;
 }
 #body .products h1 {

@@ -1,4 +1,4 @@
-bsgenomics.github.com
+bsgenomics.github.io
 ==================
 
 bsgenomics homepage
