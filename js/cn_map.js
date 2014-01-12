@@ -9,7 +9,7 @@
     //创建地图函数：
     function createMap(){
         var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
-        var point = new BMap.Point(114.043966,22.572852);//定义一个中心点坐标
+        var point = new BMap.Point(114.261117,22.731344);//定义一个中心点坐标
         map.centerAndZoom(point,16);//设定地图的中心点和坐标并将地图显示在地图容器中
         window.map = map;//将map变量存储在全局
     }
@@ -36,7 +36,7 @@
     }
     
     //标注点数组
-    var markerArr = [{title:"周易数据",content:"生物信息数据分析服务及分析平台",point:"114.044235|22.573353",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+    var markerArr = [{title:"深圳市百穗基因科技有限公司",content:"生物信息数据分析服务及分析平台",point:"114.261117|22.731344",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
 		 ];
     //创建marker
     function addMarker(){
